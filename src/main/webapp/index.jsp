@@ -9,7 +9,7 @@
   <h3> Ofc Location : Ameerpet, Hyderbad </h3>
   <h4>how are you doing </h4>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+  <h1> Learn Here.. enjoy Anywhere..!! </h1>
 
 </body>
 </html>
